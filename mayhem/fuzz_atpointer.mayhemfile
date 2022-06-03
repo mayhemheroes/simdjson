@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_atpointer
+cmds:
+- cmd: /out/fuzz_atpointer
